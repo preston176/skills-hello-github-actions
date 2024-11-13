@@ -10,7 +10,7 @@ _Create and run a GitHub Actions workflow._
 
 _Nice work adding a job to your workflow! :dancer:_
 
-Workflows have jobs, and jobs have steps. So now we'll add a step to your workflow.
+Workflows have jobs, and jobs have steps. So now we'll add a step to your workflow. 😂
 
 **What are _steps_?**: Actions steps run - in the order they are specified, from the top down - when a workflow job is processed. Each step must pass for the next step to run.
 
